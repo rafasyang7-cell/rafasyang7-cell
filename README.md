@@ -1,14 +1,14 @@
 # Olá, eu sou a Rafaela Syang ! 👋
 
 ### 🎓 Estudante de Engenharia de Software
-Sou uma entusiasta da tecnologia, natural de Minas Gerais. Atualmente no **3º período** da faculdade, estou focado em construir uma carreira sólida como desenvolvedor **Fullstack**. Sou movida pela curiosidade e pelo desejo de aprender cada vez mais sobre como transformar o mundo através de códigos e tecnologias cada vez mais avançadas.
+Sou uma entusiasta da tecnologia, natural de Minas Gerais. Atualmente no **3º período** da faculdade, estou focada em construir uma carreira sólida como desenvolvedor **Fullstack**. Sou movida pela curiosidade e pelo desejo de aprender cada vez mais sobre como transformar o mundo através de códigos e tecnologias cada vez mais avançadas.
 
 ---
 
 ## 🚀 Sobre Mim
 - 🏫 Cursando Engenharia de Software no Centro Universitário Una.
 - 💡 Buscando minha primeira oportunidade de **Estágio** na área de desenvolvimento.
-- 🎨 Tenho um pequeno senso em design, o que me ajuda a criar interfaces mais intuitivas e limpas, embora meu foco principal seja a **programação**.
+- 🎨 Tenho um senso em design, o que me ajuda a criar interfaces mais intuitivas e limpas, embora meu foco principal seja a **programação**.
 - 📊 Além de código, gosto de transformar dados em insights utilizando Power BI.
 
 ---
