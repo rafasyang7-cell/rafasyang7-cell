@@ -35,10 +35,6 @@ Sou uma entusiasta da tecnologia, natural de Minas Gerais. Atualmente no **3º p
   <img src="https://github-readme-stats.vercel.app/api?username=rafasyang7-cell&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasyang7-cell&layout=compact&langs_count=7&card_width=490&hide_border=true&theme=dracula&show_icons=true&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
 ---
 
 <p align="center">
